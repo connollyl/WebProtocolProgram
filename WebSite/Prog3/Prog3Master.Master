@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Prog3Master.master.cs" Inherits="WebSite.Prog3.Prog3Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>CS 3870 - Prog3</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1>Web Protocols, Technologies and Applications</h1>
+            <h2>Logan Connolly</h2>
+        </div>
+        <div class="navbar">
+
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Prog3/Default.aspx">All Products</asp:HyperLink>
+            <br />
+            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Prog3/Updating.aspx">Updating Products</asp:HyperLink>
+            <br />
+            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Prog3/Shopping.aspx">Shopping</asp:HyperLink>
+
+        </div>
+        <div style="text-align: center">
+            <div style="display: inline-block">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,168 @@
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\WebSite.dll.config
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\WebSite.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\WebSite.pdb
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\csc.exe
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\csc.exe.config
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\csc.rsp
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\csi.exe
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\csi.exe.config
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\csi.rsp
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.AppContext.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Console.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\vbc.exe
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\vbc.exe.config
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\vbc.rsp
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\obj\Debug\WebSite.csprojAssemblyReference.cache
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\obj\Debug\WebSite.csproj.CoreCompileInputs.cache
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\obj\Debug\WebSite.csproj.CopyComplete
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\obj\Debug\WebSite.dll
+C:\Users\Logan\Documents\College Docs\Web Protocols\WebSite\WebSite\obj\Debug\WebSite.pdb
+G:\WP\Website\WebSite\bin\WebSite.dll.config
+G:\WP\Website\WebSite\bin\WebSite.dll
+G:\WP\Website\WebSite\bin\WebSite.pdb
+G:\WP\Website\WebSite\bin\roslyn\csc.exe
+G:\WP\Website\WebSite\bin\roslyn\csc.exe.config
+G:\WP\Website\WebSite\bin\roslyn\csc.rsp
+G:\WP\Website\WebSite\bin\roslyn\csi.exe
+G:\WP\Website\WebSite\bin\roslyn\csi.exe.config
+G:\WP\Website\WebSite\bin\roslyn\csi.rsp
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.Managed.Core.targets
+G:\WP\Website\WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WP\Website\WebSite\bin\roslyn\System.AppContext.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Collections.Immutable.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Console.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WP\Website\WebSite\bin\roslyn\System.IO.Compression.dll
+G:\WP\Website\WebSite\bin\roslyn\System.IO.FileSystem.dll
+G:\WP\Website\WebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WP\Website\WebSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\WP\Website\WebSite\bin\roslyn\System.IO.Pipes.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Reflection.Metadata.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Security.AccessControl.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Security.Claims.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Security.Principal.Windows.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\WP\Website\WebSite\bin\roslyn\System.ValueTuple.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Xml.XmlDocument.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Xml.XPath.dll
+G:\WP\Website\WebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\WP\Website\WebSite\bin\roslyn\vbc.exe
+G:\WP\Website\WebSite\bin\roslyn\vbc.exe.config
+G:\WP\Website\WebSite\bin\roslyn\vbc.rsp
+G:\WP\Website\WebSite\bin\roslyn\VBCSCompiler.exe
+G:\WP\Website\WebSite\bin\roslyn\VBCSCompiler.exe.config
+G:\WP\Website\WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WP\Website\WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WP\Website\WebSite\obj\Debug\WebSite.csprojAssemblyReference.cache
+G:\WP\Website\WebSite\obj\Debug\WebSite.csproj.CoreCompileInputs.cache
+G:\WP\Website\WebSite\obj\Debug\WebSite.csproj.CopyComplete
+G:\WP\Website\WebSite\obj\Debug\WebSite.dll
+G:\WP\Website\WebSite\obj\Debug\WebSite.pdb
+E:\WP\Website\WebSite\bin\WebSite.dll.config
+E:\WP\Website\WebSite\bin\WebSite.dll
+E:\WP\Website\WebSite\bin\WebSite.pdb
+E:\WP\Website\WebSite\bin\roslyn\csc.exe
+E:\WP\Website\WebSite\bin\roslyn\csc.exe.config
+E:\WP\Website\WebSite\bin\roslyn\csc.rsp
+E:\WP\Website\WebSite\bin\roslyn\csi.exe
+E:\WP\Website\WebSite\bin\roslyn\csi.exe.config
+E:\WP\Website\WebSite\bin\roslyn\csi.rsp
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WP\Website\WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WP\Website\WebSite\bin\roslyn\System.AppContext.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Collections.Immutable.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Console.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WP\Website\WebSite\bin\roslyn\System.IO.Compression.dll
+E:\WP\Website\WebSite\bin\roslyn\System.IO.FileSystem.dll
+E:\WP\Website\WebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WP\Website\WebSite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WP\Website\WebSite\bin\roslyn\System.IO.Pipes.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Security.AccessControl.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Security.Claims.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WP\Website\WebSite\bin\roslyn\System.ValueTuple.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Xml.XPath.dll
+E:\WP\Website\WebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WP\Website\WebSite\bin\roslyn\vbc.exe
+E:\WP\Website\WebSite\bin\roslyn\vbc.exe.config
+E:\WP\Website\WebSite\bin\roslyn\vbc.rsp
+E:\WP\Website\WebSite\bin\roslyn\VBCSCompiler.exe
+E:\WP\Website\WebSite\bin\roslyn\VBCSCompiler.exe.config
+E:\WP\Website\WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WP\Website\WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WP\Website\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
+E:\WP\Website\WebSite\obj\Debug\WebSite.csproj.CoreCompileInputs.cache
+E:\WP\Website\WebSite\obj\Debug\WebSite.csproj.CopyComplete
+E:\WP\Website\WebSite\obj\Debug\WebSite.dll
+E:\WP\Website\WebSite\obj\Debug\WebSite.pdb

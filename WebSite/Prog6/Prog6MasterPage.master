@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MainMasterPage.Master" AutoEventWireup="true" CodeBehind="Prog6MasterPage.master.cs" Inherits="WebSite.Prog6.Prog6MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <link href="../Styles.css" rel="stylesheet" type="text/css" />
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div>
+        <h3>
+            <asp:Label ID="lblLogin1" runat="server"></asp:Label>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prog 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:HyperLink ID="LogoutHL" runat="server" NavigateUrl="~/Login.aspx">Logout</asp:HyperLink>
+        </h3>
+        <div class="navbar" style="display: inline-block">
+            <asp:TreeView ID="TreeView1" runat="server">
+                <Nodes>
+                    <asp:TreeNode Text="UWP CS 3870" Value="UWP CS 3870">
+                        <asp:TreeNode NavigateUrl="~/CreateUser.aspx" Text="Create Users" Value="Create Users"></asp:TreeNode>
+                        <asp:TreeNode NavigateUrl="~/Prog5/Default.aspx" Text="Prog 5" Value="Prog 5"></asp:TreeNode>
+                        <asp:TreeNode Text="Prog 6" Value="Prog 6">
+                            <asp:TreeNode Text="Admin" Value="Admin">
+                                <asp:TreeNode Text="Set Roles" Value="Set Roles" NavigateUrl="~/Prog6/Admin/SetRoles.aspx"></asp:TreeNode>
+                                <asp:TreeNode Text="Updating" Value="Updating" NavigateUrl="~/Prog6/Admin/Updating.aspx"></asp:TreeNode>
+                            </asp:TreeNode>
+                            <asp:TreeNode Text="Member" Value="New Node">
+                                <asp:TreeNode Text="Shopping" Value="Shopping" NavigateUrl="~/Prog6/Member/Shopping.aspx"></asp:TreeNode>
+                                <asp:TreeNode Text="Checkout" Value="Checkout" NavigateUrl="~/Prog6/Member/Checkout.aspx"></asp:TreeNode>
+                            </asp:TreeNode>
+                        </asp:TreeNode>
+                    </asp:TreeNode>
+                </Nodes>
+            </asp:TreeView>
+        </div>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div style="display: inline-block">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+</asp:Content>

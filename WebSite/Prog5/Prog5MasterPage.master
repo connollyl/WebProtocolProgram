@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MainMasterPage.Master" AutoEventWireup="true" CodeBehind="Prog5MasterPage.master.cs" Inherits="WebSite.Prog5.Prog5MasterPage" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <link href="../Styles.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            margin-left: 21px;
+        }
+        .auto-style2 {
+            margin-left: 26px;
+        }
+        .auto-style3 {
+            margin-left: 29px;
+        }
+        .auto-style10 {
+            width: 700px;
+        }
+        .auto-style5 {
+            width: 400px;
+        }
+        .auto-style6 {
+            width: 400px;
+        }
+        .auto-style7 {
+            width: 400px;
+            height: 26px;
+        }
+        .auto-style8 {
+            margin-left: 0px;
+        }
+        .auto-style9 {
+            margin-left: 20px;
+        }
+        .auto-style11 {
+            width: 100%;
+        }
+        .auto-style12 {
+            width: 70px;
+        }
+        .auto-style13 {
+            width: 70px;
+            height: 63px;
+        }
+        .auto-style4 {
+            width: 158px;
+        }
+        .auto-style15 {
+            width: 158px;
+            height: 63px;
+        }
+        .auto-style16 {
+            margin-left: 20px;
+        }
+        .auto-style17 {
+            margin-left: 19px;
+        }
+    </style>
+    </asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div>
+        <h3>
+            <asp:Label ID="lblLogin1" runat="server"></asp:Label>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prog 5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Label ID="lblLogin2" runat="server"></asp:Label>
+        </h3>
+    </div>
+    <div class="leftTreeView">
+        <ul id="TreeView" style="list-style-type: none">
+            <li>
+                <span class="caret">
+                    <asp:HyperLink ID="linkDefault" runat="server" NavigateUrl="~/Prog5/Default.aspx">All Products</asp:HyperLink></span>
+            </li>
+            <li>
+                <span class="caret">
+                    <asp:HyperLink ID="linkUpdating" runat="server" NavigateUrl="~/Prog5/Updating.aspx">Updating</asp:HyperLink></span>
+            </li>
+            <li>
+                <span class="caret">
+                    <asp:HyperLink ID="linkShopping" runat="server" NavigateUrl="~/Prog5/Shopping.aspx">Shopping</asp:HyperLink></span>
+            </li>
+            <li>
+                <span class="caret">
+                    <asp:HyperLink ID="linkCheckout" runat="server" NavigateUrl="~/Prog5/Checkout.aspx">Checkout</asp:HyperLink></span>
+            </li>
+        </ul>
+    </div>
+    <div style="text-align: center">
+        <div style="display: inline-block">
+            <asp:ContentPlaceHolder ID="PageContentPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+</asp:Content>
