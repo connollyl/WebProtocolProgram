@@ -25,7 +25,7 @@ namespace WebSite.Prog6.Member
             Session["GVI"] = "";
             Session["DeVI"] = "";
             Session["Username"] = "";
-            Session["ShoppingBag"] = new object();
+            Session["ShoppingBag"] = new ShoppingBag();
             Response.Redirect("../Login.aspx");
         }
 

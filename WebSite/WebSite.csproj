@@ -89,6 +89,11 @@
     <Content Include="Prog6\Default.aspx" />
     <Content Include="Prog6\Member\Checkout.aspx" />
     <Content Include="Prog6\Member\Shopping.aspx" />
+    <Content Include="Prog7\Admin\Updating.aspx" />
+    <Content Include="Prog7\Default.aspx" />
+    <Content Include="Prog7\Member\Checkout.aspx" />
+    <Content Include="Prog7\Member\Shopping.aspx" />
+    <Content Include="Prog7\ShoppingItem.ascx" />
     <Content Include="Styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -272,6 +277,48 @@
     <Compile Include="Prog6\Prog6MasterPage.master.designer.cs">
       <DependentUpon>Prog6MasterPage.master</DependentUpon>
     </Compile>
+    <Compile Include="Prog7\Admin\Updating.aspx.cs">
+      <DependentUpon>Updating.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prog7\Admin\Updating.aspx.designer.cs">
+      <DependentUpon>Updating.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Prog7\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prog7\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Prog7\Member\Checkout.aspx.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prog7\Member\Checkout.aspx.designer.cs">
+      <DependentUpon>Checkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Prog7\Member\Shopping.aspx.cs">
+      <DependentUpon>Shopping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prog7\Member\Shopping.aspx.designer.cs">
+      <DependentUpon>Shopping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Prog7\Prog7MasterPage.master.cs">
+      <DependentUpon>Prog7MasterPage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prog7\Prog7MasterPage.master.designer.cs">
+      <DependentUpon>Prog7MasterPage.master</DependentUpon>
+    </Compile>
+    <Compile Include="Prog7\ShoppingItem.ascx.cs">
+      <DependentUpon>ShoppingItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prog7\ShoppingItem.ascx.designer.cs">
+      <DependentUpon>ShoppingItem.ascx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -281,6 +328,7 @@
     <Content Include="Prog4\Prog4MasterPage.Master" />
     <Content Include="Prog5\Prog5MasterPage.master" />
     <Content Include="Prog6\Prog6MasterPage.master" />
+    <Content Include="Prog7\Prog7MasterPage.master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

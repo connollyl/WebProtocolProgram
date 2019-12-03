@@ -28,7 +28,7 @@ namespace WebSite
                         if (dr["Password"].Equals(txtbxPassword.Text))
                         {
                             Session["Username"] = txtbxUsername.Text;
-                            Response.Redirect("Prog6/Default.aspx");
+                            Response.Redirect("Prog7/Default.aspx");
                         }
                         else
                         {

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
+using WebSite.App_Code;
 
 namespace WebSite
 {
@@ -19,7 +20,7 @@ namespace WebSite
             Session["GVI"] = "";
             Session["DeVI"] = "";
             Session["Username"] = "";
-            Session["ShoppingBag"] = new object();
+            Session["ShoppingBag"] = new ShoppingBag();
         }
 
         protected void Application_BeginRequest(object sender, EventArgs e)
